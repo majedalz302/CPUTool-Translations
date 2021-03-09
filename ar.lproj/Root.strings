@@ -1,0 +1,40 @@
+{
+  "How CPUTool works" = "ßíİ ÊÚãá CPUTool";
+  "If you set the values to 1.0, it means the max CPU power will be set to 1 percent of the stock state. Run Geekbench with 1 percent to confirm CPUTool works properly. There might be the lag if you set the low values. Please note that the value is MAX POWER, not the average power." = "ÅĞÇ ŞãÊ ÈÊÚííä ÇáŞíã Úáì 1.0 ¡ İåĞÇ íÚäí Ãä ÇáÍÏ ÇáÃŞÕì áØÇŞÉ æÍÏÉ ÇáãÚÇáÌÉ ÇáãÑßÒíÉ ÓíÊã ÊÚííäå Úáì 1 ÈÇáãÇÆÉ ãä ÍÇáÉ ÇáãÎÒæä. Şã ÈÊÔÛíá Geekbench ÈäÓÈÉ 1 İí ÇáãÇÆÉ áÊÃßíÏ Ãä CPUTool ÊÚãá ÈÔßá ÕÍíÍ. ŞÏ íßæä åäÇß ÊÃÎíÑ ÅĞÇ ŞãÊ ÈÊÚííä ÇáŞíã ÇáãäÎİÖÉ. íÑÌì ãáÇÍÙÉ Ãä ÇáŞíãÉ åí MAX POWER ¡ æáíÓ ãÊæÓØ ??ÇáØÇŞÉ.";
+
+  "Enable" = "ÊİÚíá";
+  "On some device (such as iPhone XS and above), only CPU control works." = "İí ÈÚÖ ÇáÃÌåÒÉ (ãËá iPhone XS æÇáÅÕÏÇÑÇÊ ÇáÃÍÏË) ¡ ÊÚãá İŞØ ÇáÊÍßã İí æÍÏÉ ÇáãÚÇáÌÉ ÇáãÑßÒíÉ.";
+
+  "Easy Mode" = "ÇáæÖÚ ÇáÓåá";
+  "Manual settings are ignored if you enable the easy mode." = "íÊã ÊÌÇåá ÇáÅÚÏÇÏÇÊ ÇáíÏæíÉ ÅĞÇ ŞãÊ ÈÊãßíä ÇáæÖÚ ÇáÓåá.";
+  "A bit slow" = "ÈØíÁ ÈÚÖ ÇáÔíÁ";
+  "Slow" = "ÈØíÁ";
+  "Extreme" = "ÔÏíÏ ÇáÈØìÁ";
+
+  "Normal" = "ÚÇÏí";
+  "Max CPU Power" = "ÃÚáì ŞæÉ ááãÚÇáÌ";
+  "Max GPU Power" = "ÃÚáì ŞæÉ áãÚÇáÌ ÇáÑÓæãíÇÊ";
+
+  "Low Power Mode" = "æÖÚ ÊæİíÑ ÇáØÇŞÉ";
+  "CPU Power during LPM" = "ŞæÉ ÇáãÚÇáÌ ÃËäÇÁ æÖÚ ÊæİíÑ ÇáØÇŞÉ";
+  "GPU Power during LPM" = "ŞæÉ ãÚÇáÌ ÇáÑÓæãíÇÊ ÃËäÇÁ æÖÚ ÊæİíÑ ÇáØÇŞÉ";
+
+  "Others (Respring)" = "ÇÎÑì ( ÇÚÇÏÉ ÇáÊÔÛíá)";
+  "Enable Excluding Apps" = "";
+  "Select apps to exclude..." = "ÍÏÏ ÊØÈíŞÇÊ áÇÓÊÈÚÇÏåÇ...";
+
+  "Extreme Mode" = "ÇáæÖÚ ÔÏíÏ ÇáÈØìÁ";
+  "On some device (such as iPhone XS and above), maybe it is a little bit difficult to see the difference. If you cannot see the difference even though you set them to 0.1 and tried ldrestart (or reboot), enable this option. This option multiplies the normal settings' values by 0.1." = "İí ÈÚÖ ÇáÃÌåÒÉ (ãËá iPhone XS æÇáÅÕÏÇÑÇÊ ÇáÃÍÏË) ¡ ÑÈãÇ íßæä ãä ÇáÕÚÈ ŞáíáÇğ ÑÄíÉ ÇáİÑŞ. ÅĞÇ áã ÊÊãßä ãä ÑÄíÉ ÇáİÑŞ Úáì ÇáÑÛã ãä ÖÈØåÇ Úáì 0.1 æÍÇæá  ldrestart (Ãæ ÅÚÇÏÉ ÇáÊÔÛíá) ¡ İŞã ÈÊãßíä åĞÇ ÇáÎíÇÑ. íŞæã åĞÇ ÇáÎíÇÑ íÚÇáÌ Şíã ÇáÅÚÏÇÏÇÊ ÇáÚÇÏíÉ ÈãŞÏÇÑ 0.1.";
+
+  "Report Bugs or Contact" = "ÇáÅÈáÇÛ Úä ÇáÃÎØÇÁ Ãæ ÇáÊæÇÕá";
+  "Try resetting the settings before contacting me" = "ÍÇæá ÅÚÇÏÉ ÖÈØ ÇáÅÚÏÇÏÇÊ ŞÈá ÇáÇÊÕÇá Èí";
+  "Open Discord" = "ÇİÊÍ Discord";
+  "Twitter" = "ÊæíÊÑ";
+  "Buy me a coffee?" = "ÔÑÇÁ ŞåæÊí?";
+  "Paypal" = "Paypal";
+
+  "Help translating" = "ÇáãÓÇÚÏå İí ÊÑÌãÉ ÇáÇÏÇÉ";
+
+  "Respring" = "Respring";
+  "Reset All Settings" = "ÇÓÊÚÇÏÉ ÌãíÚ ÇáÇÚÏÇÏÇÊ ÇáÇİÊÑÇÖíÉ";
+}
